@@ -8,6 +8,7 @@ class SpringstudyApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("123");
 	}
 
 }
